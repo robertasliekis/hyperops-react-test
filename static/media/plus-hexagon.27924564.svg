@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="14px" height="16px" viewBox="0 0 14 16" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <g id="plus-hexagon">
+    <path d="M3.5 0L2.5 0L2.5 2.5L0 2.5L0 3.5L2.5 3.5L2.5 6L3.5 6L3.5 3.5L6 3.5L6 2.5L3.5 2.5L3.5 0Z" transform="translate(4 5)" id="Combined-Shape" fill="#F8333C" fill-rule="evenodd" stroke="none" />
+    <path d="M14 4L7 0L0 4L0 12L7 16L14 12L14 4ZM1 4.58032L7 1.15175L13 4.58032L13 11.4197L7 14.8482L1 11.4197L1 4.58032Z" id="Polygon" fill="#ADB2B4" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>
