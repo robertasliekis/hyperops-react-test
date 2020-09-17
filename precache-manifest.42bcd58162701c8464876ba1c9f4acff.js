@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3ce1226a8618d45620b575eb9fbd2952",
+    "revision": "310664ee1ca3f1c590ff52243643fbf5",
     "url": "/hyperops-react-test/index.html"
   },
   {
-    "revision": "7ac0d7f5722195504d51",
-    "url": "/hyperops-react-test/static/css/main.28a0fa8b.chunk.css"
+    "revision": "0489167a777e3d416514",
+    "url": "/hyperops-react-test/static/css/main.481e565b.chunk.css"
   },
   {
-    "revision": "da74d2883d09bd7db9ba",
-    "url": "/hyperops-react-test/static/js/2.030a90be.chunk.js"
+    "revision": "02ff4871194b7ca2ec69",
+    "url": "/hyperops-react-test/static/js/2.08aba5f9.chunk.js"
   },
   {
     "revision": "f4aac9c965aa45c554c7c1d1e3f69ce3",
-    "url": "/hyperops-react-test/static/js/2.030a90be.chunk.js.LICENSE.txt"
+    "url": "/hyperops-react-test/static/js/2.08aba5f9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7ac0d7f5722195504d51",
-    "url": "/hyperops-react-test/static/js/main.d334025c.chunk.js"
+    "revision": "0489167a777e3d416514",
+    "url": "/hyperops-react-test/static/js/main.e9667294.chunk.js"
   },
   {
     "revision": "4b6cb2ad9f704cf3a7e6",
     "url": "/hyperops-react-test/static/js/runtime-main.21e3f0ab.js"
+  },
+  {
+    "revision": "efb2dc0affee729c871c5a52617398ba",
+    "url": "/hyperops-react-test/static/media/Video-Background1.efb2dc0a.m4v"
   },
   {
     "revision": "07fbfe4ffe94204896c1639530632486",
@@ -30,10 +34,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "199c83344a74208d319f0c23d3fbc77b",
     "url": "/hyperops-react-test/static/media/ansible.199c8334.svg"
-  },
-  {
-    "revision": "fc28126061a71a0b9cbd8d54f389986f",
-    "url": "/hyperops-react-test/static/media/background.fc281260.png"
   },
   {
     "revision": "7c79582b72e3b0fbab329baf057a67a4",
