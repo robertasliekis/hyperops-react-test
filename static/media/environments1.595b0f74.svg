@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="44px" height="49px" viewbox="0 0 44 49" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M22 3.33886e-13L44 12L44 36L22 48L1.52732e-13 36L1.52732e-13 12L22 3.33886e-13Z" id="path_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="environments">
+    <g id="Polygon-Copy-2">
+      <g clip-path="url(#clip_1)">
+        <use xlink:href="#path_1" fill="none" stroke="#545B5E" stroke-width="2" />
+      </g>
+    </g>
+    <path d="M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16Z" transform="translate(25 33)" id="Oval-Copy-2" fill="#F8333C" fill-rule="evenodd" stroke="none" />
+    <path d="M10 0L20 4.88848L16.2028 7.12358L20 8.97982L16.1632 11.2382L20 13.1139L10 19.0001L0 13.1139L3.83679 11.2382L0 8.97982L3.79717 7.12358L0 4.88848L10 0ZM4.87001 11.8464L2.1112 13.1951L10 17.8386L17.8888 13.1951L15.13 11.8464L10 14.866L4.87001 11.8464ZM2.1112 4.96969L10 9.61322L17.8888 4.96969L10 1.11326L2.1112 4.96969ZM10 10.7747L15.1696 7.73176L17.8888 9.06103L10 13.7046L2.1112 9.06103L4.83039 7.73176L10 10.7747Z" transform="translate(12 15)" id="Combined-Shape" fill="#545B5E" fill-rule="evenodd" stroke="none" />
+    <path d="M4 2C4 0.895431 3.10457 0 2 0C0.895431 0 0 0.895431 0 2L0 6C0 7.10457 0.895431 8 2 8C3.10457 8 4 7.10457 4 6L4 2ZM6.5 0L5.5 0L5.5 8L6.5 8L6.5 0ZM1 2C1 1.44772 1.44772 1 2 1C2.55228 1 3 1.44772 3 2L3 6C3 6.55228 2.55228 7 2 7C1.44772 7 1 6.55228 1 6L1 2Z" transform="translate(29.75 37)" id="Combined-Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="44px" height="49px" viewbox="0 0 44 49" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M22 3.33886e-13L44 12L44 36L22 48L1.52732e-13 36L1.52732e-13 12L22 3.33886e-13Z" id="path_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="users">
+    <path d="M8.06051 1.32466C9.80522 2.99653 9.98384 5.67195 8.56466 7.5484L18 16.5903L17.174 17.4391L16.7465 17.0285L13.8552 20L12.9998 19.1803L15.8914 16.209L14.1802 14.5693L12.1151 16.6922L11.2598 15.8726L13.3251 13.7499L7.73815 8.39768C5.89783 9.87056 3.19704 9.78679 1.45234 8.11493C-0.437295 6.30418 -0.489855 3.31623 1.33494 1.44115C3.15974 -0.433927 6.17088 -0.486082 8.06051 1.32466ZM7.23449 2.17344C5.81727 0.815387 3.55891 0.854503 2.19031 2.26081C0.821716 3.66712 0.861135 5.90809 2.27836 7.26614C3.69558 8.6242 5.95394 8.58508 7.32254 7.17877C8.69114 5.77246 8.65172 3.5315 7.23449 2.17344Z" transform="translate(13 14)" id="Shape" fill="#545B5E" stroke="none" />
+    <g id="Polygon">
+      <g clip-path="url(#clip_1)">
+        <use xlink:href="#path_1" fill="none" stroke="#545B5E" stroke-width="2" />
+      </g>
+    </g>
+    <path d="M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16Z" transform="translate(25 33)" id="Oval" fill="#F8333C" fill-rule="evenodd" stroke="none" />
+    <path d="M4.5 0L3.5 0L3.5 3.5L0 3.5L0 4.5L3.5 4.5L3.5 8L4.5 8L4.5 4.5L8 4.5L8 3.5L4.5 3.5L4.5 0Z" transform="translate(29 37)" id="Combined-Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

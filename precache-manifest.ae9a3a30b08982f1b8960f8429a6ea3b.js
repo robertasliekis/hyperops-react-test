@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f890193fc1d9b03e57fc68ee8dbfcc52",
+    "revision": "f989473dd9add04efae1ee4dcdfbef92",
     "url": "/hyperops-react-test/index.html"
   },
   {
-    "revision": "f78b0fde2b25cd48a41a",
-    "url": "/hyperops-react-test/static/css/main.2dc9df42.chunk.css"
+    "revision": "812ff9534ed442aaba77",
+    "url": "/hyperops-react-test/static/css/main.badee312.chunk.css"
   },
   {
     "revision": "02ff4871194b7ca2ec69",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hyperops-react-test/static/js/2.08aba5f9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f78b0fde2b25cd48a41a",
-    "url": "/hyperops-react-test/static/js/main.ed89ba5e.chunk.js"
+    "revision": "812ff9534ed442aaba77",
+    "url": "/hyperops-react-test/static/js/main.9dcb42af.chunk.js"
   },
   {
     "revision": "4b6cb2ad9f704cf3a7e6",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "efb2dc0affee729c871c5a52617398ba",
     "url": "/hyperops-react-test/static/media/Video-Background1.efb2dc0a.m4v"
+  },
+  {
+    "revision": "097f7355cd9963c71e2527e20c25f2c7",
+    "url": "/hyperops-react-test/static/media/access1.097f7355.svg"
   },
   {
     "revision": "b458a5e758f81e6b426230534483fa51",
@@ -56,6 +60,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hyperops-react-test/static/media/environments.8931741a.svg"
   },
   {
+    "revision": "595b0f7424170a6c0078ec1ae1c6b08d",
+    "url": "/hyperops-react-test/static/media/environments1.595b0f74.svg"
+  },
+  {
     "revision": "c4144176fc3a5084e73d6a31f0e62e43",
     "url": "/hyperops-react-test/static/media/gitlab.c4144176.svg"
   },
@@ -73,7 +81,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "b83d8ddfe79e2d15bf704b57a390f025",
-    "url": "/hyperops-react-test/static/media/integrations.b83d8ddf.svg"
+    "url": "/hyperops-react-test/static/media/integrations_1.b83d8ddf.svg"
   },
   {
     "revision": "23e13159fbec71b33bd14dec3886742a",
@@ -82,6 +90,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "922d2e75c0f295d34d02ef0460bdcc7e",
     "url": "/hyperops-react-test/static/media/kubernetes.922d2e75.svg"
+  },
+  {
+    "revision": "5bda32b7f7619bbe495a998fc8db0ba7",
+    "url": "/hyperops-react-test/static/media/logo.5bda32b7.svg"
   },
   {
     "revision": "5666ec7dfa615debad3b523e35926912",
@@ -100,16 +112,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hyperops-react-test/static/media/red-arrow.30646d9d.svg"
   },
   {
-    "revision": "b9cca2c22c9b68f73bdcc40359297d10",
-    "url": "/hyperops-react-test/static/media/service2.b9cca2c2.svg"
-  },
-  {
     "revision": "0ec5c1c70cfda86a4e4e1b6ce732cf64",
     "url": "/hyperops-react-test/static/media/support.0ec5c1c7.svg"
   },
   {
+    "revision": "2728a2ec7e5c530c9c3b694ea9620e34",
+    "url": "/hyperops-react-test/static/media/try-demo-bg-image.2728a2ec.png"
+  },
+  {
     "revision": "a682b363022d70b404a9f9045ba4da6b",
     "url": "/hyperops-react-test/static/media/users.a682b363.svg"
+  },
+  {
+    "revision": "8222d6368db8433bd7a68a29771d104c",
+    "url": "/hyperops-react-test/static/media/users_1.8222d636.svg"
   },
   {
     "revision": "ffd6a86edf67fb44ac6cc5154b818149",
