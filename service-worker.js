@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hyperops-react-test/precache-manifest.d09f7e0e90bf7abcaf907c3d7907f6c0.js"
+  "/hyperops-react-test/precache-manifest.ab4e004f173b980ba18fc5a90d05b6fa.js"
 );
 
 self.addEventListener('message', (event) => {
