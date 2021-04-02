@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="44px" height="49px" viewBox="0 0 44 49" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <path d="M22 3.33886e-13L44 12L44 36L22 48L1.52732e-13 36L1.52732e-13 12L22 3.33886e-13Z" id="path_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="environments">
+    <g id="Polygon-Copy-2">
+      <g clip-path="url(#clip_1)">
+        <use xlink:href="#path_1" fill="none" stroke="#545B5E" stroke-width="2" />
+      </g>
+    </g>
+    <path d="M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16Z" transform="translate(25 33)" id="Oval-Copy-2" fill="#F8333C" fill-rule="evenodd" stroke="none" />
+    <path d="M6.06066 4.46202L5.35355 3.75491L5.68434e-14 9.10847L5.35355 14.462L6.06066 13.7549L1.41421 9.10847L6.06066 4.46202ZM14 4.46202L14.7071 3.75491L20.0607 9.10847L14.7071 14.462L14 13.7549L18.6464 9.10847L14 4.46202ZM11.3 0L7.3 18L8.27619 18.2169L12.2762 0.21693L11.3 0Z" transform="translate(12 15)" id="Combined-Shape" fill="#545B5E" stroke="none" />
+    <path d="M2 0C3.10457 0 4 0.895431 4 2L4 6C4 7.10457 3.10457 8 2 8C0.895431 8 0 7.10457 0 6L0 2C0 0.895431 0.895431 0 2 0ZM6.5 0L5.5 0L5.5 8L6.5 8L6.5 0ZM2 1C1.44772 1 1 1.44772 1 2L1 6C1 6.55228 1.44772 7 2 7C2.55228 7 3 6.55228 3 6L3 2C3 1.44772 2.55228 1 2 1Z" transform="translate(29.75 37)" id="Combined-Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

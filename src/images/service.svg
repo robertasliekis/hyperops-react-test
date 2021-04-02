@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="132px" height="144px" viewBox="0 0 132 144" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <g id="service">
+    <path d="M66 1.00166e-12L132 36L132 108L66 144L4.58196e-13 108L4.58196e-13 36L66 1.00166e-12Z" id="Polygon-Copy-9" fill="#F0F3F4" fill-rule="evenodd" stroke="none" />
+    <path d="M0 0L78 0L78 64L0 64L0 0Z" transform="translate(27 40)" id="Rectangle" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+    <path d="M21 42C32.598 42 42 32.598 42 21C42 9.40202 32.598 0 21 0C9.40202 0 0 9.40202 0 21C0 32.598 9.40202 42 21 42Z" transform="translate(80 102)" id="Oval" fill="#F8333C" fill-rule="evenodd" stroke="none" />
+    <path d="M5.12695 0L6.76758 0L6.76758 14.6484L3.7793 14.6484L3.7793 3.45703L0.957031 4.48242L0 1.86523L5.12695 0Z" transform="translate(96.88379 115.35156)" id="1" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+    <path d="M0 0L78 0L78 6L0 6L0 0Z" transform="translate(27 40)" id="Rectangle" fill="#071013" fill-rule="evenodd" stroke="none" />
+    <path d="M0 0L20 0L20 8L0 8L0 0Z" transform="translate(33 52)" id="Rectangle" fill="#B7BBBD" fill-rule="evenodd" stroke="none" />
+    <path d="M0 0L40 0L40 40L0 40L0 0Z" transform="translate(59 52)" id="Rectangle-Copy-15" fill="#F0F3F4" fill-rule="evenodd" stroke="none" />
+    <path d="M0 0L20 0L20 8L0 8L0 0Z" transform="translate(33 64)" id="Rectangle-Copy-13" fill="#B7BBBD" fill-rule="evenodd" stroke="none" />
+    <path d="M0 0L14 0L14 6L0 6L0 0Z" transform="translate(81 82)" id="Rectangle-Copy-16" fill="#F8333C" fill-rule="evenodd" stroke="none" />
+    <path d="M0 0L20 0L20 8L0 8L0 0Z" transform="translate(33 76)" id="Rectangle-Copy-14" fill="#B7BBBD" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

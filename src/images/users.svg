@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="44px" height="49px" viewBox="0 0 44 49" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <path d="M22 3.33886e-13L44 12L44 36L22 48L1.52732e-13 36L1.52732e-13 12L22 3.33886e-13Z" id="path_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="users">
+    <g id="user-icon" transform="translate(12 14)">
+      <path d="M9.50035 10C12.2569 10 14.4915 7.76142 14.4915 5C14.4915 2.23858 12.2569 0 9.50035 0C6.74381 0 4.5092 2.23858 4.5092 5C4.5092 7.76142 6.74381 10 9.50035 10ZM9.50035 9C7.29512 9 5.50743 7.20914 5.50743 5C5.50743 2.79086 7.29512 1 9.50035 1C11.7056 1 13.4933 2.79086 13.4933 5C13.4933 7.20914 11.7056 9 9.50035 9ZM18.9751 17.4313C19.2471 14.7056 17.262 12.2751 14.5412 12.0025C11.189 11.6667 7.81172 11.6667 4.45954 12.0025C4.26406 12.0221 4.06992 12.0533 3.87814 12.096C1.20882 12.6902 -0.474221 15.3397 0.118962 18.0137L0.55957 20L1.58215 20L1.09342 17.7968C0.619832 15.6619 1.96355 13.5466 4.09469 13.0722C4.2478 13.0381 4.4028 13.0132 4.55887 12.9975C7.84499 12.6683 11.1557 12.6683 14.4418 12.9975C16.6141 13.2151 18.199 15.1557 17.9818 17.3318C17.9662 17.4882 17.9413 17.6434 17.9073 17.7968L17.4185 20L18.4411 20L18.8817 18.0137C18.9243 17.8216 18.9555 17.6271 18.9751 17.4313Z" transform="translate(0.5 1.1368684E-13)" id="Combined-Shape" fill="#545B5E" fill-rule="evenodd" stroke="none" />
+    </g>
+    <g id="Polygon">
+      <g clip-path="url(#clip_1)">
+        <use xlink:href="#path_1" fill="none" stroke="#545B5E" stroke-width="2" />
+      </g>
+    </g>
+    <path d="M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16Z" transform="translate(25 33)" id="Oval" fill="#F8333C" fill-rule="evenodd" stroke="none" />
+    <path d="M4.5 0L3.5 0L3.5 3.5L0 3.5L0 4.5L3.5 4.5L3.5 8L4.5 8L4.5 4.5L8 4.5L8 3.5L4.5 3.5L4.5 0Z" transform="translate(29 37)" id="Combined-Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

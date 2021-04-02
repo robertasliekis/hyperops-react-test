@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="132px" height="144px" viewBox="0 0 132 144" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <g id="documentation">
+    <path d="M66 1.00166e-12L132 36L132 108L66 144L4.58196e-13 108L4.58196e-13 36L66 1.00166e-12Z" id="Polygon-Copy-9" fill="#F0F3F4" fill-rule="evenodd" stroke="none" />
+    <path d="M-1.20737e-13 0L46 0L56 10L56 80L-1.20737e-13 80L-1.20737e-13 0Z" transform="translate(34 36)" id="Rectangle-Copy-12" fill="#D8DCDD" fill-rule="evenodd" stroke="none" />
+    <path d="M-1.20737e-13 0L46 0L56 10L56 80L-1.20737e-13 80L-1.20737e-13 0Z" transform="translate(38 32)" id="Rectangle" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+    <path d="M0 0L10 10L0 10L0 0Z" transform="translate(84 32)" id="Rectangle" fill="#ADB2B4" fill-rule="evenodd" stroke="none" />
+    <path d="M0 0L6 0L6 6L0 6L0 0Z" transform="translate(44 94)" id="Rectangle" fill="#F8333C" fill-rule="evenodd" stroke="none" />
+    <path d="M0 0L44 0L44 6L0 6L0 0Z" transform="translate(44 54)" id="Rectangle" fill="#071013" fill-rule="evenodd" stroke="none" />
+    <path d="M0 0L30 0L30 6L0 6L0 0Z" transform="translate(44 64)" id="Rectangle-Copy-8" fill="#ADB2B4" fill-rule="evenodd" stroke="none" />
+    <path d="M0 0L38 0L38 6L0 6L0 0Z" transform="translate(44 74)" id="Rectangle-Copy-11" fill="#ADB2B4" fill-rule="evenodd" stroke="none" />
+    <path d="M21 42C32.598 42 42 32.598 42 21C42 9.40202 32.598 0 21 0C9.40202 0 0 9.40202 0 21C0 32.598 9.40202 42 21 42Z" transform="translate(80 102)" id="Oval" fill="#F8333C" fill-rule="evenodd" stroke="none" />
+    <path d="M0 3.35938C1.26954 1.11978 3.04686 0 5.33203 0C6.28256 0 7.11751 0.187173 7.83691 0.561523C8.55632 0.935874 9.11784 1.45345 9.52148 2.11426C9.92513 2.77507 10.127 3.5319 10.127 4.38477C10.127 5.56967 9.70866 6.82779 8.87207 8.15918C8.03548 9.49057 6.76108 10.8756 5.04883 12.3145L10.6445 12.3145L10.6445 14.9512L0.605469 14.9512L0.605469 13.0273C1.90105 11.9661 3.04361 10.8968 4.0332 9.81934C5.02279 8.74186 5.79752 7.73275 6.35742 6.79199C6.91732 5.85123 7.19727 5.06185 7.19727 4.42383C7.19727 3.90299 7.0166 3.47494 6.65527 3.13965C6.29394 2.80436 5.83008 2.63672 5.26367 2.63672C4.70377 2.63672 4.17318 2.82226 3.67188 3.19336C3.17057 3.56445 2.65951 4.14713 2.13867 4.94141L0 3.35938Z" transform="translate(95.77539 115.04883)" id="2" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

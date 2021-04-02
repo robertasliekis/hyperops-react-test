@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="132px" height="144px" viewBox="0 0 132 144" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <g id="infrastructure">
+    <path d="M66 1.00166e-12L132 36L132 108L66 144L4.58196e-13 108L4.58196e-13 36L66 1.00166e-12Z" id="Polygon-Copy-9" fill="#F0F3F4" fill-rule="evenodd" stroke="none" />
+    <g id="Group-9" transform="translate(30 43)">
+      <path d="M36 0L0 4L2 33L5.33333 33L7.11111 37L3 37L7 55L65 55L69 37L64.8889 37L66.6667 33L70 33L72 4L36 0Z" transform="translate(0 1)" id="Combined-Shape" fill="#D8DCDD" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L40 0L40 9L0 9L0 0Z" transform="translate(16 29)" id="Rectangle" fill="#ADB2B4" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L48 0L48 22L0 22L0 0Z" transform="translate(12 36)" id="Rectangle" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L48 0L48 32L0 32L0 0Z" transform="translate(12 0)" id="Rectangle-Copy-20" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L6 0L6 6L0 6L0 0Z" transform="translate(36 18)" id="Rectangle" fill="#071013" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L6 0L6 6L0 6L0 0Z" transform="translate(46 18)" id="Rectangle-Copy-21" fill="#F8333C" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L32 0L32 6L0 6L0 0Z" transform="translate(20 44)" id="Rectangle" fill="#ADB2B4" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L32 0L32 6L0 6L0 0Z" transform="translate(20 8)" id="Rectangle-Copy-23" fill="#ADB2B4" fill-rule="evenodd" stroke="none" />
+    </g>
+    <path d="M21 42C32.598 42 42 32.598 42 21C42 9.40202 32.598 0 21 0C9.40202 0 0 9.40202 0 21C0 32.598 9.40202 42 21 42Z" transform="translate(80 102)" id="Oval" fill="#F8333C" fill-rule="evenodd" stroke="none" />
+    <path d="M0 13.5449L1.5332 11.377C1.98242 11.696 2.43164 11.9645 2.88086 12.1826C3.33008 12.4007 3.85742 12.5098 4.46289 12.5098C5.25717 12.5098 5.87239 12.2607 6.30859 11.7627C6.74479 11.2646 6.96289 10.6869 6.96289 10.0293C6.96289 9.33919 6.73015 8.75163 6.26465 8.2666C5.79915 7.78157 5.14649 7.53906 4.30664 7.53906C3.73372 7.53906 3.23893 7.66276 2.82227 7.91016L2.33398 8.19336L0.859375 6.49414L1.55273 0L9.27734 0L9.27734 2.63672L3.91602 2.63672L3.64258 5.18555C3.98763 5.12695 4.33268 5.09766 4.67773 5.09766C5.66732 5.09766 6.56412 5.30436 7.36816 5.71777C8.1722 6.13119 8.81022 6.70735 9.28223 7.44629C9.75423 8.18522 9.99023 9.04947 9.99023 10.0391C9.99023 11.0482 9.74284 11.9206 9.24805 12.6563C8.75325 13.3919 8.08757 13.9583 7.25098 14.3555C6.41438 14.7526 5.48503 14.9512 4.46289 14.9512C3.64908 14.9512 2.88086 14.8258 2.1582 14.5752C1.43554 14.3245 0.716149 13.9811 0 13.5449Z" transform="translate(96.05371 115.322266)" id="5" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

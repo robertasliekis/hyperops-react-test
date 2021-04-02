@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="132px" height="144px" viewBox="0 0 132 144" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <g id="support">
+    <path d="M66 1.00166e-12L132 36L132 108L66 144L4.58196e-13 108L4.58196e-13 36L66 1.00166e-12Z" id="Polygon-Copy-9" fill="#F0F3F4" fill-rule="evenodd" stroke="none" />
+    <path d="M21 42C32.598 42 42 32.598 42 21C42 9.40202 32.598 0 21 0C9.40202 0 0 9.40202 0 21C0 32.598 9.40202 42 21 42Z" transform="translate(80 102)" id="Oval" fill="#F8333C" fill-rule="evenodd" stroke="none" />
+    <path d="M8.04199 6.47461C7.28352 6.06445 6.41277 5.85938 5.42969 5.85938C5.17578 5.85938 4.94466 5.8724 4.73633 5.89844C4.52799 5.92448 4.32943 5.96029 4.14063 6.00586C4.60287 5.25716 5.20182 4.54265 5.9375 3.8623C6.67318 3.18196 7.50325 2.57487 8.42773 2.04102L6.63086 0C5.29622 0.768233 4.13249 1.69596 3.13965 2.7832C2.1468 3.87045 1.37533 5.03743 0.825195 6.28418C0.275062 7.53093 0 8.77604 0 10.0195C0 11.1198 0.216469 12.0801 0.649414 12.9004C1.08236 13.7207 1.68945 14.3571 2.4707 14.8096C3.25196 15.262 4.16992 15.4883 5.22461 15.4883C6.24024 15.4883 7.14355 15.2799 7.93457 14.8633C8.72559 14.4466 9.34733 13.8721 9.7998 13.1396C10.2523 12.4072 10.4785 11.569 10.4785 10.625C10.4785 9.70052 10.262 8.88021 9.8291 8.16406C9.39616 7.44791 8.80046 6.88477 8.04199 6.47461ZM3.68652 8.82813C4.10645 8.38541 4.63541 8.16406 5.27344 8.16406C5.91146 8.16406 6.43392 8.38216 6.84082 8.81836C7.24772 9.25456 7.45117 9.81119 7.45117 10.4883C7.45117 11.1719 7.24447 11.7367 6.83105 12.1826C6.41764 12.6286 5.89193 12.8516 5.25391 12.8516C4.62239 12.8516 4.09831 12.6302 3.68164 12.1875C3.26497 11.7448 3.05664 11.1849 3.05664 10.5078C3.05664 9.83073 3.2666 9.27084 3.68652 8.82813Z" transform="translate(95.80957 115.05859)" id="6" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+    <g id="Group-11" transform="translate(30 42)">
+      <path d="M48 0L0 0L0 38L6 32L48 32L48 0Z" transform="translate(0 22)" id="Combined-Shape-Copy" fill="#D8DCDD" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L32 0L32 4L0 4L0 0Z" transform="translate(8 36)" id="Rectangle-Copy-27" fill="#F0F3F4" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L23 0L23 4L0 4L0 0Z" transform="translate(8 44)" id="Rectangle-Copy-28" fill="#F0F3F4" fill-rule="evenodd" stroke="none" />
+      <path d="M48 0L0 0L0 38L6 32L48 32L48 0Z" transform="matrix(-1 0 0 1 72 0)" id="Combined-Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L4 0L4 4L0 4L0 0Z" transform="translate(60 6)" id="Rectangle" fill="#F8333C" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L4 0L4 4L0 4L0 0Z" transform="translate(8 28)" id="Rectangle-Copy-29" fill="#071013" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L32 0L32 4L0 4L0 0Z" transform="translate(32 14)" id="Rectangle" fill="#D8D8D8" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L24 0L24 4L0 4L0 0Z" transform="translate(40 22)" id="Rectangle-Copy-26" fill="#D8D8D8" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>

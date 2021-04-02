@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="25px" height="32px" viewBox="0 0 25 32" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <g id="kibana">
+    <path d="M0 0L0 16.4466L11.7429 2.98311C8.14286 1.01831 4.10429 0 0 0Z" transform="translate(0 11.76178)" id="Path" fill="#343741" fill-rule="evenodd" stroke="none" />
+    <path d="M0 0L0 11.7618C4.10357 11.7618 8.14143 12.7872 11.7429 14.7442L24.5986 0L0 0Z" id="Path" fill="#F04E98" fill-rule="evenodd" stroke="none" />
+    <path d="M13.1007 0L0 15.0315L22.9407 15.0315C21.6893 8.96213 18.1729 3.59111 13.1014 0.000711111L13.1007 0Z" transform="translate(1.1664276 16.314331)" id="Path" fill="#00BFB3" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>
